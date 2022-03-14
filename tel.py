@@ -1,5 +1,5 @@
 import telebot
-token="5256405774:AAEDiPEyT9rUXoOAgX6jAmwElaxYh1-0914"
+token=""
 # Создаем экземпляр бота
 bot = telebot.TeleBot(token)
 # Функция, обрабатывающая команду /start
